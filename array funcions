@@ -1,0 +1,20 @@
+import numpy as np
+
+s = np.array([[1, 2, 3], [3, 2, 1]])
+b = np.array([[1, 2, 3], [3, 2, 1]])
+
+# numpy array functions
+'''print(s.shape)
+print(s.ndim)
+print(s.strides)
+print(s.size)
+print(s.dtype)
+print(s.T)
+print(np.concatenate((s, b), axis=0))
+print(np.concatenate((s, b), axis=1))
+print(np.concatenate((s, b), axis=None))
+print(np.split(s, 1))
+print(np.insert(s, 1, 3, axis=0))
+print(np.delete(s, 1, axis=1))
+print(np.delete(s, [0, 1, 2], axis=None))
+print(np.rot90(b, 1, (0, 1)))'''
