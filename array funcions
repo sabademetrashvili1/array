@@ -20,4 +20,8 @@ print(np.delete(s, [0, 1, 2], axis=None))
 print(np.rot90(b, 1, (0, 1)))'''
 
 
-#numpy ndarray function np.ndarray(shape, dtype=(data type), buffer=None, offset=0, strides=None, order=('C', 'F', 'A', 'K')
+#numpy ndarray function 
+np.ndarray(shape, dtype=(data type), buffer=None, offset=0, strides=None, order=('C', 'F', 'A', 'K')
+
+l = np.ndarray((2, 3), dtype=int, buffer=b) 
+b.tolist() #return [[1, 2, 3], [3, 2, 1]]
