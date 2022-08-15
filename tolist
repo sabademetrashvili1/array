@@ -1,0 +1,16 @@
+import numpy as np
+
+'''b = np.array([[1, 2, 3], [3, 2, 1]])
+s = np.ndarray((2, 3, 2), dtype=int, buffer=np.arange(12))
+
+f = np.empty(1, dtype=int)
+print(s)
+print(s.tolist())
+
+
+
+
+#np.append function
+print('no axis\n', np.append(b, [[4, 5, 6], [2, 4, 5]]), '\n')
+print('axis=0\n', np.append(b, [[4, 5, 6], [2, 4, 5]], axis=0), '\n')
+print('axis=1 and axis=-1\n', np.append(b, [[4, 5, 6], [2, 4, 5]], axis=1))'''
