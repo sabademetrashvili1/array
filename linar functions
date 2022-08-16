@@ -1,0 +1,19 @@
+np.dot(a, b)	Computes the dot product of two arrays.
+
+np.vdot(a, b)	Computes the dot product of two vectors.
+
+np.linalg.multi_dot(a,b,c,d,…)	Computes the dot product of multiple arrays at once.
+
+np.inner(a, b)	Computes the inner product of two arrays.
+
+np.outer(a, b)	Computes the outer product of two arrays.
+
+np.matmul(x1, x2)	Computes the matrix product of two arrays.
+
+np.tensordot(a, b,axes)	Computes the tensor dot product of two arrays along the specified axes.
+
+np.linalg.matrix_power(a, n)	Raises a square matrix raised to the given power.
+
+np.kron(a, b)	Computes the Kronecker product of two arrays.
+
+np.einsum(subscripts,*operand)	Evaluates the Einstein summation convention on the operands.
