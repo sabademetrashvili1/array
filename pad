@@ -1,0 +1,1 @@
+Numpy.pad(array, pad_width, mode= 'constant', ***kwargs)
