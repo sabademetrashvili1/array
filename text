@@ -1,0 +1,2 @@
+numpy.genfromtxt(fname, dtype= ,  comments: , delimiter = , skiprows = , skip_header = , autostrip  =)
+numpy.savetxt(file_name, Array, format='%.4e', delimiter='  ', newline='n', header='  ', footer='  ', comments='# ')
